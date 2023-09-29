@@ -1,7 +1,7 @@
 # EDA-ML_on_Analytics_Job_Prediction_dataset
 This repository contains an EDA and ML analysis on the database from https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv.
 
-The main task was to understand and point out the reasons why employees were leaving the company.
+The main task was to understand and point out the reasons why employees were leaving a company.
 At the end of the work, some suggestions were put forward.
 
 Content of the .ipynb file: 
